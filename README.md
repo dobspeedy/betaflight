@@ -1,4 +1,4 @@
-Our comments
+This source was the base that the configurator modified.  The binaries created by the configurator do not reflect this source exactly.
 
 //following from betaflight/betaflight repo
 
